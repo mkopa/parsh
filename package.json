@@ -1,0 +1,23 @@
+{
+  "name": "parsh",
+  "version": "0.0.1",
+  "description": "Parallel Shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkopa/parsh.git"
+  },
+  "keywords": [
+    "parallel",
+    "shell"
+  ],
+  "author": "Marcin Kopa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/mkopa/parsh/issues"
+  },
+  "homepage": "https://github.com/mkopa/parsh#readme"
+}
